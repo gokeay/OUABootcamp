@@ -1,9 +1,9 @@
-#...
+# lastWord
 Takım 96
 
-#Ürün İle İlgili Bilgiler
+# Ürün İle İlgili Bilgiler
 
-#Takım Elemanları
+# Takım Elemanları
 • Gökay Özcan: Scrum Master
 • Kerem Pulcu: Team Member/UI-UX designer
 • Zeynep Cerrahoğlu: Team Member/Developer
@@ -12,19 +12,19 @@ Takım 96
 #Ürün İsmi
 --...—
 
-#Ürün Açıklaması
+# Ürün Açıklaması
 • ...
 
-#Ürün Özellikleri
+# Ürün Özellikleri
 • ...
 • ...
 • ...
 • ...
 
-#Hedef Kitle
+# Hedef Kitle
 • ...
 • ...
 • ...
 • ...
 • ...
-#Product Backlog URL
+# Product Backlog URL
