@@ -1,0 +1,63 @@
+name: finalwords15
+description: A new Flutter project.
+
+publish_to:
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.2.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - assets/Steve Jobs.png
+    - assets/firstimage.png
+    - assets/arkaplan.png
+    - assets/Jane Austen.png
+    - assets/Karl Marx.png
+    - assets/Leonardo da Vinci.png
+    - assets/Ludwig van Beethoven.png
+    - assets/Mahatma Gandhi.png
+    - assets/Marie Antoinette.png
+    - assets/Mark Twain.png
+    - assets/Michael Faraday.png
+    - assets/Nostradamus.png
+    - assets/Oscar Wilde.png
+    - assets/Ömer Hayyam.png
+    - assets/Pancho Villa.png
+    - assets/Salvador Allende.png
+    - assets/Sigmund Freud.png
+    - assets/Sir Isaac Newton.png
+    - assets/Thomas Edison.png
+    - assets/Voltaire.png
+    - assets/Winston Churchill.png
+    - assets/Steve Jobs1.png
+    - assets/Jane Austen1.png
+    - assets/Karl Marx1.png
+    - assets/Leonardo da Vinci1.png
+    - assets/Ludwig van Beethoven1.png
+    - assets/Mahatma Gandhi1.png
+    - assets/Marie Antoinette1.png
+    - assets/Mark Twain1.png
+    - assets/Michael Faraday1.png
+    - assets/Nostradamus1.png
+    - assets/Oscar Wilde1.png
+    - assets/Ömer Hayyam1.png
+    - assets/Pancho Villa1.png
+    - assets/Salvador Allende1.png
+    - assets/Sigmund Freud1.png
+    - assets/Sir Isaac Newton1.png
+    - assets/Thomas Edison1.png
+    - assets/Voltaire1.png
+    - assets/Winston Churchill1.png
